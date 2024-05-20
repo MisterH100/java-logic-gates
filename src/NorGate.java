@@ -1,0 +1,9 @@
+public class NorGate {
+    public int gate(int fValue,int sValue){
+        if(fValue ==0 && sValue ==0){
+            return 1;
+        }
+        return 0;
+    }
+    
+}

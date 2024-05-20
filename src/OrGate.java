@@ -1,0 +1,9 @@
+public class OrGate {
+    public int gate(int fValue,int sValue){
+        if(fValue ==0 && sValue ==0){
+            return 0;
+        }
+        return 1;
+    }
+    
+}
